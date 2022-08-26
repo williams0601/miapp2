@@ -1,4 +1,10 @@
-.App {
+.container{
+  border: solid red 4px;
+  margin: 20px;
+  padding: 20px;
+}
+
+/*.App {
   text-align: center;
 }
 
@@ -36,3 +42,4 @@
     transform: rotate(360deg);
   }
 }
+*/
